@@ -1,0 +1,35 @@
+
+.current_time{
+    display: flex;
+    align-items: center;
+    margin:0px 5px;
+    color: #388ae2;
+    width: 50px;
+    
+}
+.total_duration{
+    display: flex;
+    align-items: center;
+    margin:0px 5px;
+    color: #388ae2;
+}
+.wave_container{
+    display: flex;
+    align-items: center;
+}
+.pp{
+    width: 50px;
+    height: 50px;
+    color: #388ae2;
+    border-radius: 50%;
+    box-shadow: 6px 6px 6px 1px rgba(0, 0, 255, .2);
+    
+}
+
+
+#volume{
+    width: 75px;
+    height: 25px;
+}
+
+    
